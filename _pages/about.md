@@ -27,6 +27,6 @@ redirect_from:
 - *暂无
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - 2029.06 (now)*, 清华大学, 土木水利学院. 
+- *2020.09 - 2024.06*, 武汉大学, 遥感信息工程学院. 
 
