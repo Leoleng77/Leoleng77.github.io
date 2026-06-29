@@ -23,10 +23,19 @@ redirect_from:
 # 🔥 News
 - *敬请期待🎉🎉
 
+# 📝 Publications 
+- *敬请期待🎉🎉
+
+# 🧠 Intellectual Property
+- 人为水土流失风险源提取软件RS-Seg
+- 遥感影像样本解译标注软件RSLabel
+
 # 🎖 Honors and Awards
-- *暂无
+- 2025-2026 惠妍英才奖学金
 
 # 📖 Educations
 - *2024.09 - 2029.06 (now)*, 清华大学, 土木水利学院. 
 - *2020.09 - 2024.06*, 武汉大学, 遥感信息工程学院. 
 
+# 🗺Visitor Map
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
