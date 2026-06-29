@@ -31,7 +31,7 @@ redirect_from:
 - 遥感影像样本解译标注软件RSLabel
 
 # 🎖 Honors and Awards
-- 2025-2026 惠妍英才奖学金
+- 2025-2026 清华大学惠妍英才奖学金
 
 # 📖 Educations
 - *2024.09 - 2029.06 (now)*, 清华大学, 土木水利学院. 
