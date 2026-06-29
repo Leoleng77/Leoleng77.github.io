@@ -21,7 +21,8 @@ redirect_from:
 
 
 # 🔥 News
-- *敬请期待🎉🎉
+- *祝贺课题组成员道睿师兄、彦杰师弟毕业快乐🎉🎉🎓
+- *祝贺海鹏师兄新论文“Identifying spatial boundary of urban agglomerations and metropolitan areas in China by multi-scale integrated framework”发表于Cities！🎉🎉📝
 
 # 📝 Publications 
 - *敬请期待🎉🎉
