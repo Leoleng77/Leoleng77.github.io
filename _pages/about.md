@@ -21,6 +21,7 @@ redirect_from:
 
 
 # 🔥 News
+- *新论文“AERNet-CD: Alignment-aware Event Reasoning Network for Optical Remote Sensing Change Detection”已投稿至IEEE JSTARS！🎉🎉📧
 - *祝贺课题组成员道睿师兄、彦杰师弟毕业快乐！🎉🎉🎓
 - *祝贺海鹏师兄新论文“Identifying spatial boundary of urban agglomerations and metropolitan areas in China by multi-scale integrated framework”发表于Cities！🎉🎉📝
 
@@ -38,5 +39,9 @@ redirect_from:
 - *2024.09 - 2029.06 (now)*, 清华大学, 土木水利学院. 
 - *2020.09 - 2024.06*, 武汉大学, 遥感信息工程学院. 
 
-# 🗺Visitor Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+# 🏀 Sports
+- 2025 BCBL北京校园篮球联赛秋季赛男子五人制冠军
+- 2025昌平“未来杯”篮球超级联赛高校男子五人制亚军
+- 2026国际名校篮球邀请赛二等奖
+- 2026年首都高等学校篮球联赛甲组第七名
+- 2026 NCBL（原BCBL）北京校园篮球联赛春季赛男子五人制四强
